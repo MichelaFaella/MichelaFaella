@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a third year Computer Science student at *Università degli Studi di Salerno*.
+
+
+This profile contains repositories for projects done as coursework, as well as personal projects.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelaFaella&show_icons=true&theme=dark)
+
 <!--
 **MichelaFaella/MichelaFaella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
