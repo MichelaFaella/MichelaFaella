@@ -7,12 +7,19 @@ This profile contains repositories for projects done as coursework, as well as p
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelaFaella&show_icons=true&theme=dark)
 
-
 ### Languages and Frameworks:
 
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.unity.com" target="_blank" rel="noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
+      alt="unity"
       width="40"
       height="40"
     />
