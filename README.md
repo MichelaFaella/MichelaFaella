@@ -1,11 +1,17 @@
+<h1 align = "center"> Michela Faella </h1>
+
 ### Hi there 👋
 
 I am a third year Computer Science student at *Università degli Studi di Salerno*.
-
-
 This profile contains repositories for projects done as coursework, as well as personal projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelaFaella&show_icons=true&theme=dark)
+
+## My interests
+I focus mostly on PC targeted Software Engineering projects.
+<br>
+I usually work with Python, C/C# and Java. 
+
 
 ### Languages and Frameworks:
 
