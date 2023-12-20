@@ -14,7 +14,7 @@ I usually work with Python, C/C# and Java.
 
 
 ### Languages and Frameworks:
-
+<a  target="_blank" rel="noreferrer">
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
