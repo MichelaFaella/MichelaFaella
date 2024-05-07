@@ -8,9 +8,9 @@ This profile contains repositories for projects done as coursework, as well as p
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelaFaella&show_icons=true&theme=dark)
 
 ## My major interests
-  <p>🔷 AI</p>
-  <p>🔷 quantum computing</p>
-  <p>🔷 software engineering</p>
+  <p>- AI</p>
+  <p>- Quantum Computing</p>
+  <p>- Software Engineering</p>
 
 
 ### Languages and Frameworks:
