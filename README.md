@@ -7,10 +7,10 @@ This profile contains repositories for projects done as coursework, as well as p
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelaFaella&show_icons=true&theme=dark)
 
-## My interests
-I focus mostly on PC targeted Software Engineering projects.
-<br>
-I usually work with Python, C/C# and Java. 
+## My major interests
+  <p>🔷 AI</p>
+  <p>🔷 quantum computing</p>
+  <p>🔷 software engineering</p>
 
 
 ### Languages and Frameworks:
