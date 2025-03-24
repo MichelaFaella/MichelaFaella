@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a third year Computer Science student at *Università degli Studi di Salerno*.
+I am a first year Computer Science Master student at *Università degli Studi di Pisa*.
 This profile contains repositories for projects done as coursework, as well as personal projects.
 
 <p align="center">
