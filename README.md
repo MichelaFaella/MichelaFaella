@@ -5,13 +5,6 @@
 I am a second year Computer Science Master student at *Università degli Studi di Pisa*.
 This profile contains repositories for projects done as coursework, as well as personal projects.
 
-<p align="center">
-  &nbsp;
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=MichelaFaella&show_icons=true&theme=dark"  />
-
-
 ## My major interests
   <p>- AI</p>
   <p>- Quantum Computing</p>
